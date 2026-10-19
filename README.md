@@ -107,7 +107,6 @@ javascript
 // Kode lama: Tidak mengecek apakah akun sudah ada/diedit
 users[ownerEmail] = {
   name: "Bang-AL (Owner)",
-  whatsapp: "081355142432",
   avatar: "https://lh3.googleusercontent.com/a/ACg8ocIS0F6m6p_ComitOwner=s96-c",
   // ...
 };
@@ -131,11 +130,10 @@ Notifikasi Upload Foto: Saat Anda mengklik kamera dan mengunggah foto profil di 
 Hasil Pengujian & Sinkronisasi GitHub
 Simulasi Uji Simpan & Reload:
 text
-Logged in user: Bang-AL (Owner) acm2lp21@gmail.com
+Logged in user: Bang-AL (Owner) example@email.com
 Update result: true Bang-AL / Baharuddin (Super Admin)
 After page reload user:
-  Name: Bang-AL / Baharuddin (Super Admin)
-  WhatsApp: 081355142432
+  WhatsApp: 081xxxxxxx
   Avatar: data:image/jpeg;base64,TESTAVATAR
 🎉 SUCCESS: Profile changes successfully preserved across page reloads!
 Sudah Ter-push ke GitHub: Semua perbaikan di atas telah di-commit dan di-push ke repositori GitHub Anda:
