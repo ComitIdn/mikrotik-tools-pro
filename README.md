@@ -1,6 +1,6 @@
 # MikroTik Config & Generator Tools Pro (ComitTools)
 
-Suite aplikasi generator konfigurasi dan script otomatis untuk **MikroTik RouterOS v6.x & v7.x**. Dirancang khusus untuk Network Engineer, Administrator ISP, dan pengelola RT/RW Net.
+_Suite aplikasi generator konfigurasi dan script otomatis untuk **MikroTik RouterOS v6.x & v7.x**. Dirancang khusus untuk Network Engineer, Administrator ISP, dan pengelola RT/RW Net._
 
 ## 🚀 Fitur Unggulan
 
@@ -107,7 +107,7 @@ javascript
 // Kode lama: Tidak mengecek apakah akun sudah ada/diedit
 users[ownerEmail] = {
   name: "Bang-AL (Owner)",
-  whatsapp: "081355142432",
+  whatsapp: "08xxx5xxxxxx",
   avatar: "https://lh3.googleusercontent.com/a/ACg8ocIS0F6m6p_ComitOwner=s96-c",
   // ...
 };
@@ -131,16 +131,13 @@ Notifikasi Upload Foto: Saat Anda mengklik kamera dan mengunggah foto profil di 
 Hasil Pengujian & Sinkronisasi GitHub
 Simulasi Uji Simpan & Reload:
 text
-Logged in user: Bang-AL (Owner) acm2lp21@gmail.com
-Update result: true Bang-AL / Baharuddin (Super Admin)
+Logged in user: Bang-AL example@gmail.com
+Update result: true Bang-AL / (Super Admin)
 After page reload user:
-  Name: Bang-AL / Baharuddin (Super Admin)
-  WhatsApp: 081355142432
+  Name: Bang-AL /(Super Admin)
   Avatar: data:image/jpeg;base64,TESTAVATAR
 🎉 SUCCESS: Profile changes successfully preserved across page reloads!
 Sudah Ter-push ke GitHub: Semua perbaikan di atas telah di-commit dan di-push ke repositori GitHub Anda:
 👉 Repository: https://github.com/script-al/mikrotik-tools-pro
-
 👉 Live Pages: https://script-al.github.io/mikrotik-tools-pro/
-
 Sekarang Anda dapat mengubah nama, nomor WhatsApp, atau foto avatar di halaman Profile dan menekan Save Changes — data akan tersimpan permanen dan tetap tampil saat Anda berpindah ke halaman utama maupun saat me-refresh browser.
